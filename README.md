@@ -1,11 +1,11 @@
-## Hi there, I'm Veda! 👋
+# Hi there, I'm Veda! 👋
 
-**I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I like solving complex problems using data.**
+### I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I like solving complex problems using data.
 
 - 🔭 I’m currently working on real-time fish detection and tracking, and a hybrid medical ICD code classification.
 - 🌱 I’m currently learning about Vision-Language Models, multi-object tracking, and 3D Vision for autonomous systems.
 - 👯 I’m looking to collaborate with researchers in the AI/ML Field
-- 🤔 I’m looking for help with how to break into robotics
+- 🤔 I’m looking for help on how to break into robotics
 - 💬 Ask me about AI/ML related stuff and Movies (emphasis Horror)
 - ⚡ Fun fact: I play tennis and badminton, and once built a Flappy Bird clone in Unity!
 
