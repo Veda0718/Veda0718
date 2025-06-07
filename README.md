@@ -92,10 +92,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<br />
+
+---
+
+### Github Stats:
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Veda0718&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Veda0718&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&count_private=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veda0718&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veda0718&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Veda0718&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
