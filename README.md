@@ -2,24 +2,12 @@
 
 ### I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I like solving complex problems using data.
 
-- 🔭 I’m currently working on real-time fish detection and tracking, and a hybrid medical ICD code classification.
+- 🔭 I’m currently working on  real-time fish detection and tracking, and a hybrid medical ICD code classification system.
 - 🌱 I’m currently learning about Vision-Language Models, multi-object tracking, and 3D Vision for autonomous systems.
-- 👯 I’m looking to collaborate with researchers in the AI/ML Field
-- 🤔 I’m looking for help on how to break into robotics
-- 💬 Ask me about AI/ML related stuff and Movies (emphasis Horror)
-- ⚡ Fun fact: I play tennis and badminton, and once built a Flappy Bird clone in Unity!
-
-<h1 align="left">Hi there, I’m Veda! 👋</h1>
-
-###
-
-<h3 align="left">I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I like solving complex problems using data.</h3>
-
-###
-
-<p align="left">🔭 I’m currently working on real-time fish detection and tracking, and a hybrid medical ICD code classification.<br>🌱 I’m learning more about Vision-Language Models, multi-object tracking, and robotics for autonomous systems.<br>👯 I’m looking to collaborate on open-source AI tools, impactful research projects, and hackathons that push boundaries.<br>🥅 2025 Goals: Contribute to open source, publish my thesis, and build robust AI systems that make a difference.<br>💬 Ask me about computer vision, medical NLP, or how to optimize multimodal pipelines.<br>⚡ Fun fact: I play tennis and badminton, and once built a Flappy Bird clone in Unity!</p>
-
-###
+- 👯 I’m looking to collaborate with ML researchers on breakthrough ideas and impactful projects.
+- 🤔 I’m seeking guidance on how to break into the field of robotics and embodied AI.
+- 💬 Ask me about all things AI/ML, or if you're up for it — let’s talk horror movies!
+- ⚡ Fun fact: I love reading books. I play tennis and badminton, and once built a Flappy Bird clone in Unity
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
