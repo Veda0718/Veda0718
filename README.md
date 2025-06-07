@@ -1,15 +1,15 @@
 # Hi there, I'm Veda! 👋
 
-### I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I like solving complex problems using data.
+### I’m a Machine Learning Engineer with a strong focus on Computer Vision, NLP, and Data Science. I enjoy solving complex problems using data.
 
 - 🔭 I’m currently working on  real-time fish detection and tracking, and a hybrid medical ICD code classification system.
-- 🌱 I’m currently learning about Vision-Language Models, multi-object tracking, and 3D Vision for autonomous systems.
-- 👯 I’m looking to collaborate with ML researchers on breakthrough ideas and impactful projects.
-- 🤔 I’m seeking guidance on how to break into the field of robotics and embodied AI.
+- 🌱 I’m currently learning about Vision-Language Models, multi-object tracking, and 3D perception for autonomous systems.
+- 👯 I’m looking to collaborate with researchers on applied AI projects in healthcare, robotics, and computer vision.
+- 🤝 I’m also looking for mentorship and guidance to transition into the robotics and embodied AI space.
 - 💬 Ask me about all things AI/ML, or if you're up for it — let’s talk horror movies!
-- ⚡ Fun fact: I love reading books. I play tennis and badminton, and once built a Flappy Bird clone in Unity
-
-### Connect with me:
+- ⚡ Fun fact: I play tennis and badminton in my free time, and once built a Flappy Bird clone in Unity
+  
+### Connect with me / Follow me:
 
 [website]: https://github.com/Veda0718
 [medium]: https://medium.com/@sahaja2001vsj
@@ -18,7 +18,6 @@
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" />][medium]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -99,14 +98,5 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Veda0718&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Veda0718&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Veda0718&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
