@@ -9,6 +9,20 @@
 - 💬 Ask me about all things AI/ML, or if you're up for it — let’s talk horror movies!
 - ⚡ Fun fact: I love reading books. I play tennis and badminton, and once built a Flappy Bird clone in Unity
 
+### Connect with me:
+
+[website]: https://github.com/Veda0718
+[medium]: https://medium.com/@sahaja2001vsj
+[instagram]: https://www.instagram.com/veda.sahaja/
+[linkedin]: https://www.linkedin.com/in/veda-sahaja-bandi/
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="shreayan98c | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="shreayan98c | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="shreayan98c | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ### Language and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
